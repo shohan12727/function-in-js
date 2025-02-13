@@ -1,1 +1,1 @@
-console.log (number,double);
+console.log (bill);
