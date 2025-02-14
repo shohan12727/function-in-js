@@ -1,1 +1,1 @@
-console.log (bill);
+evens.push(number);
