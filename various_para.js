@@ -19,3 +19,9 @@ evenSizedString("nsu");
 //     if
 // }
 
+// function numberOfElements (numbers){
+//     const len = numbers.length;
+//     return len;
+// }
+// numberOfElements([12,55,23,54,325,21,5])
+// console.log(len);
